@@ -139,4 +139,4 @@ I focus on:
 
 ---
 
-⭐ *Always open to opportunities in Backend Engineering, AI Systems, and Distributed Systems*
+⭐ *Always open to opportunities in Software Engineering, Backend Engineering, AI Systems, and Distributed Systems*
